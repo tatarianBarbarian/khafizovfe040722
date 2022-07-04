@@ -1,3 +1,8 @@
+# Just another test task :)
+
+1. Made with CRA
+2. See live: https://tatarianbarbarian.github.io/khafizovfe040722/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
