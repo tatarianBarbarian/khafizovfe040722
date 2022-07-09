@@ -3,9 +3,9 @@ Task: Develop a React app, implementing Holy Grail fig.1. Header and Footer shou
 ![alt text](example.jpg)
 
 Requirements:
-    • React 18 (last possible version) with Typescript. 
-    • Jest, RTL or enzyme for testing.
-    • Plain CSS/HTML.
-    • Screen resolutions: desktop
+- React 18 (last possible version) with Typescript. 
+- Jest, RTL or enzyme for testing.
+- Plain CSS/HTML.
+- Screen resolutions: desktop
 
 
